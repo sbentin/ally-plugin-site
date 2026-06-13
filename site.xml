@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.centimia.eclipse.ally_1.0.0.jar" id="com.centimia.eclipse.ally" version="1.0.0"/>
+   <feature url="features/com.centimia.eclipse.ally_1.0.0.jar" id="com.centimia.eclipse.ally" version="1.0.0">
+      <category name="com.centimia.eclipse.pluings"/>
+   </feature>
+   <category-def name="com.centimia.eclipse.pluings" label="Centimia Plugins"/>
 </site>
